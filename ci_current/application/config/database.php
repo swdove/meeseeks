@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-
-$prod = false;
+//change this to false if working locally
+$prod = true;
 
 /*
 | -------------------------------------------------------------------
